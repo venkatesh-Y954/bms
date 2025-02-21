@@ -1,0 +1,12 @@
+package com.eazybytes.accounts.entity;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name="Customer")
+public class Customer {
+	
+	
+
+}
